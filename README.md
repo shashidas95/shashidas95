@@ -47,8 +47,5 @@
 <h3 align="left">Top languages Used:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashidas95&show_icons=true&theme=dark&locale=en&layout=compact" alt="shashidas95" /></p>
-
-<h3 align="left">GitHub Streak Stats:</h3>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashidas95&theme=dark" alt="shashidas95" /></p>
 
