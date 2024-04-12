@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [www.shashikanta.com](www.shashikanta.com)
+- 👨‍💻 All of my projects are available at [www.shashikanta.com](www.shashikanta.com)<br>
+studied [chemical engineering](www.youtube.com)
 
 - 💬 Ask me about **PHP, laravel**
 
