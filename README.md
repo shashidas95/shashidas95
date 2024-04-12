@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
 
-- 🌱 I’m currently learning **Devops**
-
+- 🌱 I am a backend Developer (PHP, laravel)
 - 👨‍💻 All of my projects are available at [www.shashikanta.com](www.shashikanta.com)<br>
-studied [chemical engineering](www.youtube.com)
-
 - 💬 Ask me about **PHP, laravel**
-
+- You can check my Resume for more details about work experience.
+- I’m currently learning **Devops**
 - 📫 How to reach me **shashidas95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
