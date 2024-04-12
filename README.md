@@ -24,4 +24,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashidas95&show_icons=true&theme=dark&locale=en&layout=compact" alt="shashidas95" />
 </p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashidas95&theme=dark" alt="shashidas95" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shashidas95&repo=barta-feature)]([https://github.com/shashidas95/barta-feature](https://github.com/shashidas95/barta-feature))
