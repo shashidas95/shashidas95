@@ -11,7 +11,7 @@
 - I’m currently learning **Devops**
 - 📫 How to reach me **shashidas95@gmail.com**
   
-<h3>Backend Web Developer and Devops Engineer</h3>
+<h3>Professional Skills</h3>
                     <ul>
                         <li> Programming Languages: PHP, JavaScript</li>
                         <li> Web Development Frameworks: Laravel, Vue.js </li>
