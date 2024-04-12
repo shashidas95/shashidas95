@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [Facebook(https://www.facebook.com/Engr.shashi)]
+  [Facebook](https://www.facebook.com/Engr.shashi)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
