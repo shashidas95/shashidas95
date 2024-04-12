@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shashidas</h1>
+<h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
 <h3 align="center">Backend developer and devops engr from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [Facebook](https:facebook.com/Engr.shashi)
+<a href="https://linkedin.com/in/shashi-kanta-das-3964481a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-kanta-das-3964481a0" height="30" width="40" /></a>
+<a href="https://fb.com/engr.shashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engr.shashi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
