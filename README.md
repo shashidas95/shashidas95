@@ -10,7 +10,22 @@
 - You can check my Resume for more details about work experience.
 - I’m currently learning **Devops**
 - 📫 How to reach me **shashidas95@gmail.com**
-
+  
+<h3>Backend Web Developer and Devops Engineer</h3>
+                    <ul>
+                        <li> Programming Languages: PHP, JavaScript</li>
+                        <li> Web Development Frameworks: Laravel, Vue.js </li>
+                        <li> Database Management: MySQL, MongoDB</li>
+                        <li> Version Control: Git, GitHub</li>
+                        <li> RESTful API Development</li>
+                        <li> Front-End Technologies: HTML, CSS, Tailwind CSS</li>
+                        <li> Package Managers: npm, Composer</li>
+                        <li> Testing Frameworks: PHPUnit</li>
+                        <li> Deployment and Continuous Integration: Docker, Jenkins</li>
+                        <li>Cloud Services: AWS, Heroku
+                            Agile/Scrum Methodologies</li>
+                        <li> Remote Collaboration Tools: Slack, Zoom, Trello</li>
+                    </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashi-kanta-das-3964481a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-kanta-das-3964481a0" height="30" width="40" /></a>
