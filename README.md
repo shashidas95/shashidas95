@@ -1,6 +1,6 @@
 [![masterhead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/shashidas95)
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
-<h3 align="center">Backend developer and devops engr from Bangladesh</h3>
+<h3 align="center">Backend Developer and Devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
 
