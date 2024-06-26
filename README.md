@@ -1,6 +1,6 @@
 [![masterhead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/shashidas95)
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
-<h3 align="center">Backend Developer and Devops Engineer</h3>
+<h3 align="center">Full Stack Web Developer | DevOps | Docker | Kubernetes | CI-CD | AWS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
 
@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [www.shashikanta.com](www.shashikanta.com)<br>
 - 💬 Ask me about **PHP, laravel**
 - You can check my Resume for more details about work experience.
-- I’m currently learning **Devops**
+- I’m currently learning **DevOps**
 - 📫 How to reach me **shashidas95@gmail.com**
   
 <h3>Professional Skills</h3>
