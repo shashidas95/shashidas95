@@ -4,10 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
       <ul>    
-          <li> I’m currently working on **DevOps**</li>
+          <li> I’m currently working on DevOps</li>
           <li> All of my projects are available at https://github.com/shashidas95</li>
           <li> I am a backend Developer also (PHP, laravel)</li>
       </ul>
+      
 How to reach me **shashidas95@gmail.com** 
   
 <h3>Professional Skills</h3>
