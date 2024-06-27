@@ -7,9 +7,9 @@
           <li> I’m currently working on **DevOps**</li>
           <li> All of my projects are available at https://github.com/shashidas95</li>
           <li> I am a backend Developer also (PHP, laravel)</li>
-         <li>  How to reach me href="shashidas95@gmail.com" </li>
+         
       </ul>
-
+How to reach me **shashidas95@gmail.com** 
   
 <h3>Professional Skills</h3>
                     <ul>
