@@ -1,4 +1,4 @@
-[![masterhead](https://www.linkedin.com/in/shashi-kanta-das/overlay/background-image/)](https://github.com/shashidas95)
+[(https://www.linkedin.com/in/shashi-kanta-das/overlay/background-image/)]
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
 <h3 align="center">Full Stack Web Developer | DevOps | Docker | Kubernetes | CI-CD | AWS</h3>
 
