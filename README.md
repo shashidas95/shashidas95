@@ -3,10 +3,10 @@
 <h3 align="center">Full Stack Web Developer | DevOps | Docker | Kubernetes | CI-CD | AWS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
-- 👨‍💻 I’m currently working on **DevOps**
-- 👨‍💻 All of my projects are available at https://github.com/shashidas95)<br>
-- 🌱 I am a backend Developer also (PHP, laravel)
-- 💬 Ask me about **PHP, laravel**
+    - 👨‍💻 I’m currently working on **DevOps**
+    - 👨‍💻 All of my projects are available at https://github.com/shashidas95
+    - 🌱 I am a backend Developer also (PHP, laravel)
+    - 💬 Ask me about **PHP, laravel**
 
 - 📫 How to reach me **shashidas95@gmail.com**
   
