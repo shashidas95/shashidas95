@@ -1,4 +1,5 @@
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.linkedin.com/in/shashi-kanta-das/overlay/background-image/" alt="linux" width="60" height="60"/></a>
+<a href="https://linkedin.com/in/shashi-kanta-das" target="blank"><img align="center" src="https://www.linkedin.com/in/shashi-kanta-das/overlay/background-image/" alt="shashi-kanta-das" height="30" width="40" /></a>
+
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
 <h3 align="center">Full Stack Web Developer | DevOps | Docker | Kubernetes | CI-CD | AWS</h3>
 
