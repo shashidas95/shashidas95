@@ -5,25 +5,28 @@
       <ul>    
           <li> I’m currently working on DevOps</li>
           <li> All of my projects are available at https://github.com/shashidas95</li>
-          <li> I am a backend Developer also (PHP, laravel)</li>
+          <li> I am a backend Developer (Laravel) </li>
       </ul>
       
 How to reach me **shashidas95@gmail.com** 
   
 <h3>Professional Skills</h3>
-                    <ul>
-                        <li> Deployment and Continuous Integration: Docker, Jenkins</li>    
-                        <li> Kubernetes</li>                      
-                        <li>Cloud Services: AWS </li>
-                        <li> Version Control: Git, GitHub</li>
-                        <li> Database Management: MySQL, MongoDB</li>
-                        <li> Programming Languages: PHP, JavaScript</li>
-                        <li> Web Development Frameworks: Laravel, Vue.js </li>
-                        <li> RESTful API Development</li>
-                        <li> Front-End Technologies: HTML, CSS, Tailwind CSS</li>
-                        <li> Package Managers: npm, Composer</li>
-                        <li> Testing Frameworks: PHPUnit</li>
-                    </ul>
+<h4>Development Expertise </h4>
+<ul>
+    <li> Languages  Framework: PHP, Laravel</li>  
+    <li> Database Management: MySQL, MongoDB, Sqlite </li>  
+    <li> Version Control: Git, GitHub </li>  
+    <li> Front-End : HTML, CSS, Tailwind CSS </li> 
+    <li> RESTful API Development</li>
+</ul>
+<h4>DevOps  Expertise </h4>
+ <ul>
+   <li> Deployment & CI/CD: Docker, Jenkins</li>  
+   <li> Cloud Platforms: AWS </li>  
+   <li> Container Orchestration: Kubernetes </li>  
+   <li> Monitoring & Tools: Git, Prometheus, Ansible </li>  
+   <li> Scripting: Shell Scripting </li>  
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashi-kanta-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-kanta-das" height="30" width="40" /></a>
