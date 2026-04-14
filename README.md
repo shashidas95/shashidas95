@@ -2,8 +2,7 @@
 <h3 align="center">Software Architect | DevOps Engineer | Assistant Director @ BSTI</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshashidas95&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Views"/>
-</p>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshashidas95&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Views"/></p>
 
 <p align="left">
 I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specialist</strong>. Currently serving as <strong>Assistant Director (Certification Marks)</strong> at the Bangladesh Standards and Testing Institution (BSTI). I specialize in building high-performance Laravel applications and modern cloud-native infrastructure.
