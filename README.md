@@ -1,79 +1,84 @@
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
-<h3 align="center">Full Stack Web Developer | DevOps | Docker | Kubernetes | CI-CD | AWS</h3>
+<h3 align="center">Software Architect | DevOps Engineer | Assistant Director @ BSTI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" /> </p>
-      <ul>    
-          <li> I’m currently working on DevOps</li>
-          <li> All of my projects are available at https://github.com/shashidas95</li>
-          <li> I am a backend Developer (Laravel) </li>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" />
+</p>
+
+<p align="left">
+I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specialist</strong>. Currently serving as <strong>Assistant Director (Certification Marks)</strong> at the Bangladesh Standards and Testing Institution (BSTI). I specialize in building high-performance Laravel applications and modern cloud-native infrastructure.
+</p>
+
+<ul>
+  <li>🔭 <strong>Technical Focal Point:</strong> Currently overseeing government digital transformation projects.</li>
+  <li>🚀 <strong>Backend Expert:</strong> specializing in Multi-tenant systems, Clean Architecture, and SOLID principles.</li>
+  <li>⚡ <strong>DevOps Enthusiast:</strong> Deep diving into Go (Golang), Kubernetes orchestration, and IaC with Terraform.</li>
+  <li>🎓 <strong>SUST Alumnus:</strong> Chemical Engineering & Polymer Science.</li>
+</ul>
+
+<p align="left">📫 Reach me at: <strong>shashikantadas.cep@gmail.com</strong></p>
+
+---
+
+### 🏛️ Professional Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Backend & Development</h4>
+      <ul>
+        <li><strong>Languages:</strong> PHP (8.4), JavaScript, Shell, Go (Learning)</li>
+        <li><strong>Frameworks:</strong> Laravel 11, Node.js, Vue.js</li>
+        <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Redis</li>
+        <li><strong>Architecture:</strong> SOLID, Repository Pattern, Multi-tenancy</li>
       </ul>
-      
-How to reach me **shashidas95@gmail.com** 
-  
-<h3>Professional Skills</h3>
-<h4>Development Expertise </h4>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ DevOps & Infrastructure</h4>
+      <ul>
+        <li><strong>Cloud:</strong> AWS (EC2, S3, RDS, ECR, EKS)</li>
+        <li><strong>Containers:</strong> Docker, Kubernetes (K8s)</li>
+        <li><strong>CI/CD:</strong> Jenkins Pipelines, GitHub Actions</li>
+        <li><strong>Automation:</strong> Terraform (IaC), Ansible, Bash Scripting</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<ul>
-    <li>Languages & Frameworks: PHP, Laravel</li>  
-    <li>Database Management: MySQL, MongoDB, SQLite</li>  
-    <li>Version Control: Git, GitHub</li>  
-    <li>Front-End Technologies: HTML, CSS, Tailwind CSS</li>  
-    <li>RESTful API Development</li>
-    <li>Testing & Debugging: PHPUnit, Postman</li>
-</ul>
+---
 
-<h4>DevOps Expertise</h4>
-<ul>
-    <li>Deployment & CI/CD: Docker, Jenkins, Terraform</li>  
-    <li>Cloud Platforms: AWS (EC2, S3, RDS)</li>  
-    <li>Container Orchestration: Kubernetes</li>  
-    <li>Monitoring & Automation Tools: Prometheus, Ansible, Grafana</li>  
-    <li>Scripting: Shell Scripting, Python</li>
-    <li>Infrastructure as Code (IaC): Terraform</li>
-</ul>
+### 📂 Featured Projects
+
+| Project | Core Tech | Link |
+| :--- | :--- | :--- |
+| **Enterprise POS & Inventory** | Laravel 11, JWT, RBAC | [View Repo](https://github.com/shashidas95/inventory_pos) |
+| **Multi-Tenant Library System** | Laravel, Service Layer Pattern | [View Repo](https://github.com/shashidas95/Book_management_project) |
+| **MERN DevOps Platform** | Jenkins, AWS EKS, Terraform | [View Repo](https://github.com/shashidas95/mern-todo-app) |
+| **K8s Implementation Tasks** | Nginx, NodePort, Multi-Pod | [View Repo](https://github.com/shashidas95/Nginx-K8s-NodePort) |
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,mysql,postgres,mongodb,linux,bash,docker,kubernetes,jenkins,aws,terraform,git,nginx,py,apple" />
+</p>
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shashidas95&show_icons=true&theme=radical&count_private=true" alt="Shashi's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashidas95&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashidas95&theme=radical" alt="Streak Stats" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shashi-kanta-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-kanta-das" height="30" width="40" /></a>
   <a href="https://fb.com/engr.shashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engr.shashi" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
-&nbsp
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/></a>
-&nbsp
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
-&nbsp
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/></a>
-&nbsp
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-&nbsp
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/></a>
-&nbsp
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="60" height="60"/></a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-![shashi kanta das's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashidas95&show_icons=true&theme=light)
-
-<h3 align="left">Top languages Used:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashidas95&show_icons=true&theme=light&locale=en&layout=compact" alt="shashidas95" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashidas95&theme=light" alt="shashidas95" /></p>
