@@ -49,12 +49,16 @@ I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specia
 
 ### 📂 Featured Projects
 
-| Project | Core Tech | Link |
-| :--- | :--- | :--- |
-| **Enterprise POS & Inventory** | Laravel 11, JWT, RBAC | [View Repo](https://github.com/shashidas95/inventory_pos) |
-| **Multi-Tenant Library System** | Laravel, Service Layer Pattern | [View Repo](https://github.com/shashidas95/Book_management_project) |
-| **MERN DevOps Platform** | Jenkins, AWS EKS, Terraform | [View Repo](https://github.com/shashidas95/mern-todo-app) |
-| **K8s Implementation Tasks** | Nginx, NodePort, Multi-Pod | [View Repo](https://github.com/shashidas95/Nginx-K8s-NodePort) |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Enterprise E-commerce** | Full-stack platform with variation tracking & secure invoicing. | Laravel 11, Vue.js, Vite | [**Live Demo**](https://your-cpanel-link.com) |
+| **Enterprise POS** | Professional inventory & sales management. | Laravel, JWT, RBAC | [View Repo](https://github.com/shashidas95/inventory_pos) |
+| **Multi-Tenant Library** | Scalable system for multiple library branches. | Laravel 11, Clean Architecture | [View Repo](https://github.com/shashidas95/Book_management_project) |
+| **K8s Implementation** | Nginx, NodePort, and Multi-container pod patterns. | Kubernetes, Nginx | [View Repo](https://github.com/shashidas95/Nginx-K8s-NodePort) |
+| **MERN DevOps Platform** | |Jenkins, AWS EKS, Terraform | [View Repo](https://github.com/shashidas95/mern-todo-app) |
+
+> [!NOTE]
+> Some project repositories are set to **Private** to protect proprietary logic and security configurations. I am happy to provide code walkthroughs or temporary access during technical interviews.
 
 ---
 
