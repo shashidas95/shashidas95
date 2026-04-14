@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
 <h3 align="center">Software Architect | DevOps Engineer | Assistant Director @ BSTI</h3>
 
-<p align="center">
-<img src="https://gpvc.arturio.dev/shashidas95" alt="Profile Views" />
-</p>
-
 <p align="left">
 I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specialist</strong>. Currently serving as <strong>Assistant Director (Certification Marks)</strong> at the Bangladesh Standards and Testing Institution (BSTI). I specialize in building high-performance Laravel applications and modern cloud-native infrastructure.
 </p>
@@ -67,11 +63,6 @@ I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specia
 ---
 
 ### 📊 Performance Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shashidas95&show_icons=true&theme=radical&count_private=true" alt="Shashi's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashidas95&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashidas95&theme=radical" alt="Streak Stats" />
