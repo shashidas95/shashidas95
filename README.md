@@ -2,7 +2,7 @@
 <h3 align="center">Software Architect | DevOps Engineer | Assistant Director @ BSTI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashidas95&label=Profile%20views&color=0e75b6&style=flat-square" alt="shashidas95" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshashidas95&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Views"/>
 </p>
 
 <p align="left">
