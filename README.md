@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashi Kanta Das</h1>
 <h3 align="center">Software Architect | DevOps Engineer | Assistant Director @ BSTI</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/github/followers/shashidas95?label=Followers&style=social" alt="Followers" />
+</p>
 <p align="left">
 I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specialist</strong>. Currently serving as <strong>Assistant Director (Certification Marks)</strong> at the Bangladesh Standards and Testing Institution (BSTI). I specialize in building high-performance Laravel applications and modern cloud-native infrastructure.
 </p>
