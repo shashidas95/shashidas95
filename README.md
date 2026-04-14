@@ -51,7 +51,7 @@ I am a <strong>Chemical Engineer</strong> turned <strong>Backend & DevOps Specia
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Enterprise E-commerce** | Full-stack platform with variation tracking & secure invoicing. | Laravel 11, Vue.js, Vite | [**Live Demo**](https://your-cpanel-link.com) |
+| **Enterprise E-commerce** | Full-stack platform with variation tracking & secure invoicing. | Laravel 11, Vue.js, Vite | [**Live Demo**](https://apiecom.bstingbilling.org)) |
 | **Enterprise POS** | Professional inventory & sales management. | Laravel, JWT, RBAC | [View Repo](https://github.com/shashidas95/inventory_pos) |
 | **Multi-Tenant Library** | Scalable system for multiple library branches. | Laravel 11, Clean Architecture | [View Repo](https://github.com/shashidas95/Book_management_project) |
 | **K8s Implementation** | Nginx, NodePort, and Multi-container pod patterns. | Kubernetes, Nginx | [View Repo](https://github.com/shashidas95/Nginx-K8s-NodePort) |
